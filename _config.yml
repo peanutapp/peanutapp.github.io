@@ -5,7 +5,7 @@ exclude: ['*.less', 'node_modules']
 url: https://peanutapp.github.io
 
 name: Peanut
-description: An app for comparing the things in your life.
+description: An app for sharing opinions
 permalink: none
 
 sitemap:
