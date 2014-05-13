@@ -1,0 +1,14 @@
+source:      .
+destination: ./_site
+exclude: ['*.less', 'node_modules']
+
+url: https://swolemonkey.github.io
+
+name: Peanut
+description: An app for comparing the things in your life.
+permalink: none
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/404.html"
